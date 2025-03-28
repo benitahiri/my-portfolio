@@ -4,9 +4,9 @@ import BasicTabs from "./Tabs";
 
 const Experience = () => {
 	const FCMBExperience = {
-		companyName: "First City Monument Bank",
+		companyName: "AAK Tele-Science",
 		role: "Front-End Developer",
-		duration: "July 2022 - Present",
+		duration: "September 2023 - Present",
 		activities: [
 			"Collaborated with a team of professional engineers to plan, design, build, and implement the user interface systems of web-based applications and provide a satisfactory user experience with no issues, errors, or downtime.",
 			"Contributed to the building and optimization of some in-house applications to optimize productivity as well as customer-facing account management applications, which increased customer inflow by automating account opening processes.",
@@ -38,7 +38,7 @@ const Experience = () => {
 				<h2 className="py-4">Where I&apos;ve Worked</h2>
 				<div className="mt-2 ">
 					<BasicTabs
-						tabList={["FCMB", "Muzzlab"]}
+						tabList={["AAK", "MakerMinds gmbH"]}
 						tabPanel={[
 							<Details key={"FCMB"} experienceDetails={FCMBExperience} />,
 							<Details key={"mUZZLAB"} experienceDetails={MuzzlabExperience} />,

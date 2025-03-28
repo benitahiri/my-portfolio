@@ -42,8 +42,8 @@ const Navbar = () => {
 						<Image
 							src={NavLogo}
 							alt="/"
-							width="125"
-							height="50"
+							width="150"
+							height="100"
 							className="cursor-pointer"
 							loading="lazy"
 						/>

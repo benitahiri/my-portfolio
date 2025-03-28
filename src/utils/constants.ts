@@ -6,6 +6,8 @@ import Node from "public/assets/skills/node.png";
 import Git from "public/assets/skills/git.png";
 import Docker from "public/assets/skills/docker.png";
 import Tailwind from "public/assets/skills/tailwind.png";
+import java from "public/assets/skills/java.png";
+import springboot from "public/assets/skills/springboot.png";
 //
 import WhatsappClone from "public/assets/projects/whatsapp-web-clone/whatsapp.png";
 import Easymunch from "public/assets/projects/easy-munch/munch.png";
@@ -16,6 +18,10 @@ export const skills = [
 	{
 		name: "React JS",
 		image: ReactImg,
+	},
+	{
+		name: "Java",
+		image: java,
 	},
 	{
 		name: "Next JS",
@@ -36,6 +42,10 @@ export const skills = [
 	{
 		name: "Node JS",
 		image: Node,
+	},
+	{
+		name: "Spring Boot",
+		image: springboot,
 	},
 	{
 		name: "Git",

@@ -3,10 +3,10 @@ import Head from "next/head";
 import Link from "next/link";
 import Image from "next/image";
 import { FaGithub, FaLinkedinIn, FaDownload } from "react-icons/fa";
-import ResumeShot from "public/assets/Nosarumen_Imuentinyan_Resume.jpg";
+import ResumeShot from "public/assets/ArbenTahiri_CV.jpg";
 
 const ResumePdf = () => {
-	const resumePdfLink = "/assets/Nosarumen_Imuentinyan_Resume.pdf";
+	const resumePdfLink = "/assets/ArbenTahiri-CV.pdf";
 	return (
 		<>
 			<div className="relative">
@@ -27,7 +27,7 @@ const Resume = () => {
 	return (
 		<>
 			<Head>
-				<title>Nosarumen | Resume</title>
+				<title>Arben Tahiri | Resume</title>
 				<meta
 					name="description"
 					content="I’m a front-end web developer specialized in usinf react, nextjs and typescript to build exceptional user interface."
@@ -38,16 +38,16 @@ const Resume = () => {
 			<div className="max-w-[940px] mx-auto p-2 pt-[120px]">
 				<h2 className="text-center">Resume</h2>
 				<div className="bg-[#d0d4d6] my-4 p-4 w-full flex justify-between items-center">
-					<h2 className="text-center">Nosarumen Imuentinyan</h2>
+					<h2 className="text-center">Arben Tahiri</h2>
 					<div className="flex">
 						<a
-							href="https://www.linkedin.com/in/nosarumen-imuentinyan/"
+							href="https://www.linkedin.com/in/arbentahiri/"
 							target="_blank"
 							rel="noreferrer"
 						>
 							<FaLinkedinIn title="Linkedin" size={20} style={{ marginRight: "1rem" }} />
 						</a>
-						<a href="https://github.com/Sir-Rumeh/" target="_blank" rel="noreferrer">
+						<a href="https://github.com/benitahiri/" target="_blank" rel="noreferrer">
 							<FaGithub title="GitHub" size={20} style={{ marginRight: "1rem" }} />
 						</a>
 					</div>
