@@ -8,7 +8,7 @@ const WhatsappClone = () => {
 	return (
 		<>
 			<Head>
-				<title>Nosarumen | Whatsapp Web Clone Project</title>
+				<title>Arben Tahiri | Whatsapp Web Clone Project</title>
 				<meta
 					name="description"
 					content="This is a clone of the whatsapp web application featuring some of its amazing functionalities such as:

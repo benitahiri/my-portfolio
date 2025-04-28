@@ -10,7 +10,7 @@ export default function Home() {
 	return (
 		<div>
 			<Head>
-				<title>Nosarumen | Front-End Developer</title>
+				<title>Arben Tahiri | Front-End Developer</title>
 				<meta
 					name="description"
 					content="I’m a front-end web developer specialized in usinf react, nextjs and typescript to build exceptional user interface."

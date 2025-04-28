@@ -17,7 +17,7 @@ const Experience = () => {
 	};
 
 	const MuzzlabExperience = {
-		companyName: "Muzzlab Technologies",
+		companyName: "Maker Minds gmbH",
 		role: "Front-End Developer",
 		duration: "April 2020 - July 2022",
 		activities: [

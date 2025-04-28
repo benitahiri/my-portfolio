@@ -8,7 +8,7 @@ const ReactDashboard = () => {
 	return (
 		<>
 			<Head>
-				<title>Nosarumen | React Dashboard Project</title>
+				<title>Arben Tahiri| React Dashboard Project</title>
 				<meta
 					name="description"
 					content="A simple frontend admin dashboard application built using syncfusion UI components"

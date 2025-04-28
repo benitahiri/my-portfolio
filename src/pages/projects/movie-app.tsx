@@ -8,7 +8,7 @@ const MovieApp = () => {
 	return (
 		<>
 			<Head>
-				<title>Nosarumen | Movie App Project</title>
+				<title>Arben Tahiri | Movie App Project</title>
 				<meta
 					name="description"
 					content="A movie app created with create react app using the movie database API"

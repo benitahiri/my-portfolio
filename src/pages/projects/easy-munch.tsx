@@ -8,7 +8,7 @@ const EasyMunch = () => {
 	return (
 		<>
 			<Head>
-				<title>Nosarumen | EasyMunch Project</title>
+				<title>Arben Tahiri | EasyMunch Project</title>
 				<meta
 					name="description"
 					content="Welcome to our one-of-a-kind food delivery service website, crafted with love and expertise using the powerful React framework."
