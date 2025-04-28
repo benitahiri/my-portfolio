@@ -51,21 +51,21 @@ const ReactDashboard = () => {
 						<div className="flex flex-col sm:flex-row items-center justify-start gap-6 mt-4 ">
 							{/* HERE */}
 							<a
-								href="https://github.com/Sir-Rumeh/react-dashboard-project"
+								href=""
 								target="_blank"
 								rel="noreferrer"
 							>
 								<button className="px-8 py-2 tracking-widest">Github Code</button>
 							</a>
 							<a
-								href="https://react-dashboard-project-v1.netlify.app"
+								href=""
 								target="_blank"
 								rel="noreferrer"
 							>
 								<button className="px-8 py-2 tracking-widest">Live Site</button>
 							</a>
 							<a
-								href="https://www.linkedin.com/feed/update/urn:li:activity:7079116650620366848?updateEntityUrn=urn%3Ali%3Afs_feedUpdate%3A%28V2%2Curn%3Ali%3Aactivity%3A7079116650620366848%29&lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BtmGI9ecqTOa43FFPmeWPhg%3D%3D"
+								href=""
 								target="_blank"
 								rel="noreferrer"
 							>

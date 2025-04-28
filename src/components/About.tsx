@@ -11,11 +11,12 @@ const About = () => {
 					<p className="uppercase text-xl tracking-widest text-primary">About</p>
 					<h2 className="py-4">Who I Am</h2>
 					<p className="py-2 text-gray-600 text-lg">
-						An Enthusiastic frontend developer with over 3 years of experience developing fast loading
-						and responsive websites that meets customer requirements and achieve business objectives
-						using Typescript, React and other modern technologies while leveraging my experience
-						contributing to a team of software engineers in a Scrum based Agile delivery working
-						environment.
+					Software Engineer with a strong foundation in Java, Spring Boot, React, and modern
+                    databases. Certified in IBM Full Stack Software Development, I combine technical
+                    expertise with a background in the financial industry. Proficient in both back-end and
+                    front-end development, including web development with HTML, CSS, and JavaScript, I am
+                    dedicated to staying current with emerging technologies and continuously improving my
+                    skills. Committed to ongoing professional growth and learning.
 					</p>
 					<p className="py-2 text-gray-600 text-lg">
 						I specialize in building mobile responsive front-end UI applications that connect with

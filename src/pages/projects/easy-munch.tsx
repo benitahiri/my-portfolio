@@ -63,13 +63,13 @@ const EasyMunch = () => {
 						<div className="flex flex-col sm:flex-row items-center justify-start gap-6 mt-4 ">
 							{/* HERE */}
 							<a
-								href="https://github.com/prime-infinity/easymunch"
+								href=""
 								target="_blank"
 								rel="noreferrer"
 							>
 								<button className="px-8 py-2 tracking-widest">Github Code</button>
 							</a>
-							<a href="https://easymunch.netlify.app/" target="_blank" rel="noreferrer">
+							<a href="" target="_blank" rel="noreferrer">
 								<button className="px-8 py-2 tracking-widest">Live Site</button>
 							</a>
 						</div>

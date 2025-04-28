@@ -76,21 +76,21 @@ const WhatsappClone = () => {
 						<div className="flex flex-col sm:flex-row items-center justify-start gap-6 mt-4 ">
 							{/* HERE */}
 							<a
-								href="https://github.com/Sir-Rumeh/whatsapp-web-clone"
+								href=""
 								target="_blank"
 								rel="noreferrer"
 							>
 								<button className="px-8 py-2 tracking-widest">Github Code</button>
 							</a>
 							<a
-								href="https://whatsapp-web-clone-client.vercel.app"
+								href=""
 								target="_blank"
 								rel="noreferrer"
 							>
 								<button className="px-8 py-2 tracking-widest">Live Site</button>
 							</a>
 							<a
-								href="https://www.linkedin.com/posts/nosarumen-imuentinyan_whatsapp-nextjs-nodejs-activity-7124746594284974081-I6Ex?utm_source=share&utm_medium=member_desktop"
+								href=""
 								target="_blank"
 								rel="noreferrer"
 							>
